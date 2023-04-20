@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e7a441f.css",
+    "main.js": "/static/js/main.8d4b28cf.js",
+    "static/media/CadasterUAE.pdf": "/static/media/CadasterUAE.c389c5d7f221a7db03e9.pdf",
+    "static/media/curves.png": "/static/media/curves.7c73590ef0dcdfa2c17f.png",
+    "static/media/fixCurves.JPG": "/static/media/fixCurves.b8ced3bfa39662bc4610.JPG",
+    "static/media/toolbox.png": "/static/media/toolbox.1493cd1cfb3e13455c98.png",
+    "static/media/kkl_tools.atbx": "/static/media/kkl_tools.3028f77e7f849ed99729.atbx",
+    "static/media/polygonToPoint.JPG": "/static/media/polygonToPoint.450d0f62f249d32e62c7.JPG",
+    "index.html": "/index.html",
+    "main.2e7a441f.css.map": "/static/css/main.2e7a441f.css.map",
+    "main.8d4b28cf.js.map": "/static/js/main.8d4b28cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e7a441f.css",
+    "static/js/main.8d4b28cf.js"
+  ]
+}
