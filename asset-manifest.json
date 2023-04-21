@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2e7a441f.css",
-    "main.js": "/static/js/main.9d81c239.js",
+    "main.js": "/static/js/main.0947bbba.js",
     "static/media/GeometryProblems.pdf": "/static/media/GeometryProblems.d9ada2f9be300c53d793.pdf",
     "static/media/FixRasterEdges.JPG": "/static/media/FixRasterEdges.8bccde1e4b3a44ae3e9a.JPG",
     "static/media/MappingLayers.JPG": "/static/media/MappingLayers.dfc2833a457a08f033b3.JPG",
@@ -11,17 +11,24 @@
     "static/media/Find_layers.JPG": "/static/media/Find_layers.422fd138236f47204815.JPG",
     "static/media/Split_Line_By_Distance.JPG": "/static/media/Split_Line_By_Distance.2a91aab093e7646c553d.JPG",
     "static/media/Split_Line_At_Vertices.JPG": "/static/media/Split_Line_At_Vertices.92683ac17bd9ee06e30b.JPG",
+    "static/media/SimplifyPolygons.JPG": "/static/media/SimplifyPolygons.6d3ee34be82188f15171.JPG",
+    "static/media/Eliminate.JPG": "/static/media/Eliminate.38f7d9e180bc5cb380ca.JPG",
     "static/media/aggrigatePolygons.JPG": "/static/media/aggrigatePolygons.ed02cb44feb361043a6c.JPG",
+    "static/media/Erase.JPG": "/static/media/Erase.6e72e83a1b980efc7391.JPG",
+    "static/media/Findtheshortestpath.JPG": "/static/media/Findtheshortestpath.ffcbe874073b847ef4fa.JPG",
+    "static/media/Updateanalysis.JPG": "/static/media/Updateanalysis.8569966e6cbc6bf82d95.JPG",
     "static/media/fixCurves.JPG": "/static/media/fixCurves.b8ced3bfa39662bc4610.JPG",
+    "static/media/Snap.JPG": "/static/media/Snap.cfa6890aaac32b5bfb85.JPG",
     "static/media/toolbox.png": "/static/media/toolbox.1493cd1cfb3e13455c98.png",
     "static/media/FeatureToVertices.JPG": "/static/media/FeatureToVertices.337b783e7518a3d1c8b1.JPG",
     "static/media/kkl_tools.atbx": "/static/media/kkl_tools.3028f77e7f849ed99729.atbx",
+    "static/media/CreateTopology.JPG": "/static/media/CreateTopology.b4cfd6b1d44d5f9ae956.JPG",
     "index.html": "/index.html",
     "main.2e7a441f.css.map": "/static/css/main.2e7a441f.css.map",
-    "main.9d81c239.js.map": "/static/js/main.9d81c239.js.map"
+    "main.0947bbba.js.map": "/static/js/main.0947bbba.js.map"
   },
   "entrypoints": [
     "static/css/main.2e7a441f.css",
-    "static/js/main.9d81c239.js"
+    "static/js/main.0947bbba.js"
   ]
 }
