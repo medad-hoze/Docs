@@ -1,19 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.2e7a441f.css",
-    "main.js": "/static/js/main.8d4b28cf.js",
-    "static/media/CadasterUAE.pdf": "/static/media/CadasterUAE.c389c5d7f221a7db03e9.pdf",
-    "static/media/curves.png": "/static/media/curves.7c73590ef0dcdfa2c17f.png",
+    "main.js": "/static/js/main.9d81c239.js",
+    "static/media/GeometryProblems.pdf": "/static/media/GeometryProblems.d9ada2f9be300c53d793.pdf",
+    "static/media/FixRasterEdges.JPG": "/static/media/FixRasterEdges.8bccde1e4b3a44ae3e9a.JPG",
+    "static/media/MappingLayers.JPG": "/static/media/MappingLayers.dfc2833a457a08f033b3.JPG",
+    "static/media/MultipleClipper.JPG": "/static/media/MultipleClipper.3dd9245f08a798ab84bc.JPG",
+    "static/media/polygon_to_line.JPG": "/static/media/polygon_to_line.28f20a89fe131705d404.JPG",
+    "static/media/FeatureToPolygon.JPG": "/static/media/FeatureToPolygon.b115f04938e3a1a62056.JPG",
+    "static/media/Find_layers.JPG": "/static/media/Find_layers.422fd138236f47204815.JPG",
+    "static/media/Split_Line_By_Distance.JPG": "/static/media/Split_Line_By_Distance.2a91aab093e7646c553d.JPG",
+    "static/media/Split_Line_At_Vertices.JPG": "/static/media/Split_Line_At_Vertices.92683ac17bd9ee06e30b.JPG",
+    "static/media/aggrigatePolygons.JPG": "/static/media/aggrigatePolygons.ed02cb44feb361043a6c.JPG",
     "static/media/fixCurves.JPG": "/static/media/fixCurves.b8ced3bfa39662bc4610.JPG",
     "static/media/toolbox.png": "/static/media/toolbox.1493cd1cfb3e13455c98.png",
+    "static/media/FeatureToVertices.JPG": "/static/media/FeatureToVertices.337b783e7518a3d1c8b1.JPG",
     "static/media/kkl_tools.atbx": "/static/media/kkl_tools.3028f77e7f849ed99729.atbx",
-    "static/media/polygonToPoint.JPG": "/static/media/polygonToPoint.450d0f62f249d32e62c7.JPG",
     "index.html": "/index.html",
     "main.2e7a441f.css.map": "/static/css/main.2e7a441f.css.map",
-    "main.8d4b28cf.js.map": "/static/js/main.8d4b28cf.js.map"
+    "main.9d81c239.js.map": "/static/js/main.9d81c239.js.map"
   },
   "entrypoints": [
     "static/css/main.2e7a441f.css",
-    "static/js/main.8d4b28cf.js"
+    "static/js/main.9d81c239.js"
   ]
 }
