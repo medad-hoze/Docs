@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2e7a441f.css",
-    "main.js": "/static/js/main.80aba396.js",
+    "main.css": "/static/css/main.2476a4c1.css",
+    "main.js": "/static/js/main.a94d68e8.js",
     "static/media/GeometryProblems.pdf": "/static/media/GeometryProblems.d9ada2f9be300c53d793.pdf",
     "static/media/FixRasterEdges.JPG": "/static/media/FixRasterEdges.8bccde1e4b3a44ae3e9a.JPG",
     "static/media/MappingLayers.JPG": "/static/media/MappingLayers.dfc2833a457a08f033b3.JPG",
@@ -11,6 +11,7 @@
     "static/media/Find_layers.JPG": "/static/media/Find_layers.422fd138236f47204815.JPG",
     "static/media/Split_Line_By_Distance.JPG": "/static/media/Split_Line_By_Distance.2a91aab093e7646c553d.JPG",
     "static/media/Ai_globe.JPG": "/static/media/Ai_globe.4b91b478cdf8292d5851.JPG",
+    "static/media/GeoAIImage.JPG": "/static/media/GeoAIImage.596446b26520376b7c96.JPG",
     "static/media/Split_Line_At_Vertices.JPG": "/static/media/Split_Line_At_Vertices.92683ac17bd9ee06e30b.JPG",
     "static/media/SimplifyPolygons.JPG": "/static/media/SimplifyPolygons.6d3ee34be82188f15171.JPG",
     "static/media/Eliminate.JPG": "/static/media/Eliminate.38f7d9e180bc5cb380ca.JPG",
@@ -25,11 +26,11 @@
     "static/media/kkl_tools.atbx": "/static/media/kkl_tools.3028f77e7f849ed99729.atbx",
     "static/media/CreateTopology.JPG": "/static/media/CreateTopology.b4cfd6b1d44d5f9ae956.JPG",
     "index.html": "/index.html",
-    "main.2e7a441f.css.map": "/static/css/main.2e7a441f.css.map",
-    "main.80aba396.js.map": "/static/js/main.80aba396.js.map"
+    "main.2476a4c1.css.map": "/static/css/main.2476a4c1.css.map",
+    "main.a94d68e8.js.map": "/static/js/main.a94d68e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e7a441f.css",
-    "static/js/main.80aba396.js"
+    "static/css/main.2476a4c1.css",
+    "static/js/main.a94d68e8.js"
   ]
 }
