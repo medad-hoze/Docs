@@ -1,0 +1,303 @@
+[
+  {
+    "id": "Feature to line",
+    "name": "Feature to line",
+    "inputs": [
+      "input 1 - polygon"
+    ],
+    "outputs": [
+      "output 1 - line"
+    ],
+    "description": "This tool is to replace \"arcpy - Feature to line on standard License\" in home-made basic License, the \"Feature to polyline\" tool is used to convert polygons into single lines section. The tool creates a new feature class that contains the exploded geometry lines of the input polygonss.",
+    "image": "polygon_to_line.JPG",
+    "pdf": "GeometryProblems.pdf",
+    "link": "https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/feature-to-line.htm",
+    "type": "arcpy"
+  },
+  {
+    "id": "Split Line By Distance",
+    "name": "Split Line by dist",
+    "inputs": [
+      "input 1 - line"
+    ],
+    "outputs": [
+      "output 1 - line"
+    ],
+    "description": "This tool cut lines in a specific distance, there is no single tool in arcpy that do this! Splitting lines at a specified distance in arcpy refers to the process of dividing a line feature into segments of a specific length. This can be useful in a variety of applications, such as creating equal-length segments for road networks, power lines, or pipelines.",
+    "image": "Split_Line_By_Distance.JPG",
+    "pdf": "GeometryProblems.pdf",
+    "link": "https://desktop.arcgis.com/en/arcmap/latest/manage-data/editing-existing-features/splitting-lines-at-a-specified-distance-or-percentage.htm",
+    "type": "arcpy"
+  },
+  {
+    "id": "Split Line At Vertices",
+    "name": "Split At Vertices",
+    "inputs": [
+      "input 1 - line"
+    ],
+    "outputs": [
+      "output 1 - line"
+    ],
+    "description": "In ArcPy advanced license, the \"Split Line At Vertices\" tool is used to split a polyline feature into individual line segments at every vertex. The tool creates a new feature class that contains the geometry of the input polyline feature split at each vertex.",
+    "image": "Split_Line_At_Vertices.JPG",
+    "pdf": "GeometryProblems.pdf",
+    "link": "https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/split-line-at-vertices.htm",
+    "type": "arcpy"
+  },
+  {
+    "id": "Feature Vertices To Points",
+    "name": "Vertx To Points",
+    "inputs": [
+      "input 1 - polygon or line"
+    ],
+    "outputs": [
+      "output 1 - Point"
+    ],
+    "description": "This tool is to replace- \"arcpy Feature Vertices To Points\"  Advanced license,   Feature Vertices To Points tool is used to convert the vertices of a polyline or polygon feature into point features. The tool creates a new point feature class that contains the geometry of the vertices from the input feature class.",
+    "image": "FeatureToVertices.JPG",
+    "pdf": "GeometryProblems.pdf",
+    "link": "https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/feature-vertices-to-points.htm",
+    "type": "arcpy"
+  },
+  {
+    "id": "Feature To Polygon",
+    "name": "Feature To Poly",
+    "inputs": [
+      "input 1 - line or polygons"
+    ],
+    "outputs": [
+      "output 1 - Polygon"
+    ],
+    "description": "\"Feature To Polygon\" tool is used to convert features with geometry such as points, lines or polygons into polygon features. The tool creates a new polygon feature class that contains the geometry of the input features converted into polygons.",
+    "image": "FeatureToPolygon.JPG",
+    "pdf": "GeometryProblems.pdf",
+    "link": "https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/feature-to-polygon.htm",
+    "type": "arcpy"
+  },
+  {
+    "id": "Aggregate Polygons",
+    "name": "Aggregate Poly",
+    "inputs": [
+      "input 1 - polygons"
+    ],
+    "outputs": [
+      "output 1 - Polygon"
+    ],
+    "description": "Aggregating polygons is a process in which multiple adjacent or overlapping polygons are combined into larger polygons, with the aim of reducing the total number of polygons while preserving the spatial relationships and attributes of the original features. This process is often used in cartography, where it can help to simplify complex maps and improve their readability.",
+    "image": "aggrigatePolygons.JPG",
+    "pdf": "GeometryProblems.pdf",
+    "link": "https://pro.arcgis.com/en/pro-app/latest/tool-reference/cartography/aggregate-polygons.htm#:~:text=Aggregation%20will%20only%20occur%20when,of%20a%20multipart%20polygon%20feature.",
+    "type": "arcpy"
+  },
+  {
+    "id": "Polygon To Polyline ",
+    "name": "Poly To Polyline ",
+    "inputs": [
+      "input 1 - polygon"
+    ],
+    "outputs": [
+      "output 1 - line"
+    ],
+    "description": "This tool is to replace \"arcpy - polygon to line on standard License\" in home-made basic License, the \"Polygon to polyline\" tool is used to convert polygons into lines. The tool creates a new feature class that contains the geometry of the input polygons converted to lines.",
+    "image": "polygon_to_line.JPG",
+    "pdf": "GeometryProblems.pdf",
+    "link": "https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/polygon-to-line.htm",
+    "type": "arcpy"
+  },
+  {
+    "id": "Simplify Polygons",
+    "name": "Simplify polygon",
+    "inputs": [
+      "input 1 - polygon",
+      "input 2 - tolerance"
+    ],
+    "outputs": [
+      "output 1 - Polygon"
+    ],
+    "description": "This tool is trying to copy the \"Simplify Polygons\" that in advanced license, In ArcPy, the Simplify Polygon tool is part of the Data Management module and can be used to simplify the geometry of polygon features in a similar way to the ArcGIS Desktop Simplify Polygons tool.",
+    "image": "SimplifyPolygons.JPG",
+    "pdf": "GeometryProblems.pdf",
+    "link": "https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/eliminate.htm",
+    "type": "arcpy"
+  },
+  {
+    "id": "Erase analysis",
+    "name": "Erase analysis",
+    "inputs": [
+      "input 1 - polygon"
+    ],
+    "outputs": [
+      "output 1 - line or polygon or point"
+    ],
+    "description": "This tool is trying to copy the \"Erase\"  tool in advanced license, the \"Erase\" tool in ArcPy's Analysis module is used to remove the portions of one feature class that overlap with another feature class. It works by creating a new feature class that contains the remaining portion of the input feature class after the overlap is removed.",
+    "image": "Erase.JPG",
+    "pdf": "GeometryProblems.pdf",
+    "link": "https://pro.arcgis.com/en/pro-app/latest/tool-reference/analysis/erase.htm",
+    "type": "arcpy"
+  },
+  {
+    "id": "Update analysis",
+    "name": "Update analysis",
+    "inputs": [
+      "input 1 - polygon",
+      "input 2 - updated features (polygon)"
+    ],
+    "outputs": [
+      "output 1 - Polygon"
+    ],
+    "description": "This tool is trying to copy the \"Update analysis\" tool that works on advanced license, In ArcPy, the Update tool can be used to update the geometry or attributes of existing polygon features in a feature class or shapefile. The tool works by comparing the geometry and attribute information of the input features with that of the updated features, and then updating the relevant features accordingly.",
+    "image": "Updateanalysis.JPG",
+    "pdf": "GeometryProblems.pdf",
+    "link": "https://pro.arcgis.com/en/pro-app/latest/tool-reference/analysis/update.htm",
+    "type": "arcpy"
+  },
+  {
+    "id": "Snap",
+    "name": "Snap",
+    "inputs": [
+      "input 1 - polygon or line",
+      "input 2 - layer to snap (polygon or line or point)"
+    ],
+    "outputs": [
+      "output 1 - Polygon or line"
+    ],
+    "description": "This tool is trying to copy the Snap (Editing) ArcPy, the \"Snap\" tool is used to adjust the geometry of features in a feature class or shapefile so that they conform to a set of user-defined rules or criteria. The tool works by moving the vertices of the input features to the nearest point on a reference feature class or grid.",
+    "image": "Snap.JPG",
+    "pdf": "GeometryProblems.pdf",
+    "link": "https://pro.arcgis.com/en/pro-app/latest/tool-reference/editing/snap.htm#",
+    "type": "arcpy"
+  },
+  {
+    "id": "Create Topology",
+    "name": "Create Topology",
+    "inputs": [
+      "input 1 - polygon"
+    ],
+    "outputs": [
+      "output 1 - Polygon"
+    ],
+    "description": "This tool is trying to copy the \"Update analysis\" witch is on standard license, In ArcPy, the CreateTopology_management() function is used to create a new topology in a geodatabase. A topology is a set of rules that defines how features in a feature class should be spatially related to each other. Topologies are used to ensure data quality, identify errors or inconsistencies, and maintain data integrity.",
+    "image": "CreateTopology.JPG",
+    "pdf": "GeometryProblems.pdf",
+    "link": "https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/create-topology.htm",
+    "type": "arcpy"
+  },
+  {
+    "id": "Eliminate\u00a0",
+    "name": "Eliminate\u00a0",
+    "inputs": [
+      "input 1 - polygon"
+    ],
+    "outputs": [
+      "output 1 - Polygon"
+    ],
+    "description": "This tool is trying to copy the \"Eliminate\" tool in ArcPy's Data Management module, whitch is used to remove features or holes from a dataset that are less significant than others based on their attributes or spatial relationships. It is typically used to simplify data, reduce complexity, and improve visualization or analysis.",
+    "image": "Eliminate.JPG",
+    "pdf": "GeometryProblems.pdf",
+    "link": "https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/eliminate.htm",
+    "type": "arcpy"
+  },
+  {
+    "id": "Find the shortest path",
+    "name": "shortest path",
+    "inputs": [
+      "input 1 - lines",
+      "input 2 - point (start and end)"
+    ],
+    "outputs": [
+      "output 1 - lines"
+    ],
+    "description": "This tool is trying to copy the \"Find the shortest path\", In ArcPy, the Network Analyst extension can be used to find the shortest path between two points in a network. The Network Analyst extension provides various tools and functions for network analysis, including shortest path analysis, route optimization, and service area analysis.",
+    "image": "Findtheshortestpath.JPG",
+    "pdf": "GeometryProblems.pdf",
+    "link": "https://pro.arcgis.com/en/pro-app/latest/help/data/trace-network/discover-the-shortest-path.htm",
+    "type": "arcpy"
+  },
+  {
+    "id": "Find layers",
+    "name": "Find layers",
+    "inputs": [
+      "Input 1- Raster or Polygon or city name",
+      "input 2 - Folder where the layers are hosted",
+      "input 3 - Filter results by geometry (default all)",
+      "input 4 - Find raster (default True)"
+    ],
+    "outputs": [
+      "None"
+    ],
+    "description": "The algorithem will  intersect  the extent of the layer \\ raster \\ city name given in input-1  with the layers inside the folder given in input-2 , and upload the layers to the Content bar on the left side of the screen\n",
+    "image": "Find_layers.JPG",
+    "pdf": "GeometryProblems.pdf",
+    "link": "https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/create-topology.html",
+    "type": "private"
+  },
+  {
+    "id": "Fix raster edges",
+    "name": "Fix raster edges",
+    "inputs": [
+      "input - raster OR folder of raster"
+    ],
+    "outputs": [
+      "output- fodler to save the results"
+    ],
+    "description": "The tool will run over folder or single raster with the types [ecw,tif]   contaning black and white part the edges and convert those parts to Null, the new rasters will show in the output folder given with the same name as the original rasters\n",
+    "image": "FixRasterEdges.JPG",
+    "pdf": "GeometryProblems.pdf",
+    "link": "https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/create-topology.html",
+    "type": "private"
+  },
+  {
+    "id": "Multiple Clipper",
+    "name": "Multiple Clipper",
+    "inputs": [
+      "input 1 - Mask to clip from (fc - polygon)",
+      "input 2 - By field (default OBJECTID)",
+      "input 3 - Folder and\\or GDB and\\or layers to clips from",
+      "input 3 - boundary box (default false)"
+    ],
+    "outputs": [
+      "output 1 - Folder for resulrs",
+      "output 2 - Type of result (GDB or Folder with SHP's)"
+    ],
+    "description": "This clipper get polygon as mask layer, and folders \\ gdb's with the layers needed for clipping and return gdb containing clipped layers for each mask feature.",
+    "image": "MultipleClipper.JPG",
+    "pdf": "GeometryProblems.pdf",
+    "link": "https://pro.arcgis.com/en/pro-app/latest/tool-reference/analysis/clip.htm",
+    "type": "private"
+  },
+  {
+    "id": "Mapping Layers",
+    "name": "Mapping Layers",
+    "inputs": [
+      "input 1 - Folder with layers to map"
+    ],
+    "outputs": [
+      "input 1 - GDB where the result layers will host (existing gdb)"
+    ],
+    "description": "This tool was created to orginaze the layers in the user computer, finding all rasters and vector layers on ur selected folder, and return them as fc with needed information",
+    "image": "MappingLayers.JPG",
+    "pdf": "GeometryProblems.pdf",
+    "link": "https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/create-topology.html",
+    "type": "private"
+  },
+  {
+    "id": "Find geometry problems",
+    "name": "geom problems",
+    "inputs": [
+      "input 1- polygon",
+      "input 2 - Check arcpy geometry (boolean)",
+      "input 3 - Check close vertices (boolean)",
+      "input 4 Check multi junctions (boolean)",
+      "input 5 -Check Topology (boolean)",
+      "input 6 - Check exploded arcs (boolean)"
+    ],
+    "outputs": [
+      "output 1 - error layers inserted to gdb (existing gdb)"
+    ],
+    "description": "\"Discover various geometric problems from 5 distinct categories. Some of these geometric challenges are unique, with more information available in the attached PDF.\"",
+    "image": "curves.png",
+    "pdf": "GeometryProblems.pdf",
+    "link": "https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/check-geometry.htm",
+    "type": "private"
+  }
+]

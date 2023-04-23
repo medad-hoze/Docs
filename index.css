@@ -1,0 +1,25 @@
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+.sidebar {
+  padding: 20px 0;
+}
+
+.collection-item {
+  display: flex;
+  justify-content: center;
+}
