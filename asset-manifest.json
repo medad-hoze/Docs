@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c7b0128c.css",
-    "main.js": "/static/js/main.0ceb6367.js",
+    "main.js": "/static/js/main.9bbc250f.js",
     "static/media/Geoprocessing_20_4_2023.tbx": "/static/media/Geoprocessing_20_4_2023.b01bbdc234fe46775b0f.tbx",
     "static/media/GeometryProblems.pdf": "/static/media/GeometryProblems.d9ada2f9be300c53d793.pdf",
     "static/media/FixRasterEdges.JPG": "/static/media/FixRasterEdges.8bccde1e4b3a44ae3e9a.JPG",
@@ -22,6 +22,7 @@
     "static/media/Eliminate.JPG": "/static/media/Eliminate.38f7d9e180bc5cb380ca.JPG",
     "static/media/aggrigatePolygons.JPG": "/static/media/aggrigatePolygons.ed02cb44feb361043a6c.JPG",
     "static/media/Erase.JPG": "/static/media/Erase.6e72e83a1b980efc7391.JPG",
+    "static/media/TruerasterMask.JPG": "/static/media/TruerasterMask.b9e4233f277fcc7ac202.JPG",
     "static/media/ArchiveManager.JPG": "/static/media/ArchiveManager.edf3b6cd8773f7a4d58c.JPG",
     "static/media/Findtheshortestpath.JPG": "/static/media/Findtheshortestpath.ffcbe874073b847ef4fa.JPG",
     "static/media/Updateanalysis.JPG": "/static/media/Updateanalysis.8569966e6cbc6bf82d95.JPG",
@@ -49,10 +50,10 @@
     "static/media/RAP1.JPG": "/static/media/RAP1.5f8d6dbade8f98c5649f.JPG",
     "index.html": "/index.html",
     "main.c7b0128c.css.map": "/static/css/main.c7b0128c.css.map",
-    "main.0ceb6367.js.map": "/static/js/main.0ceb6367.js.map"
+    "main.9bbc250f.js.map": "/static/js/main.9bbc250f.js.map"
   },
   "entrypoints": [
     "static/css/main.c7b0128c.css",
-    "static/js/main.0ceb6367.js"
+    "static/js/main.9bbc250f.js"
   ]
 }
