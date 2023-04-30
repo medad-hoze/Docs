@@ -1,12 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.c7b0128c.css",
-    "main.js": "/static/js/main.f081a8ba.js",
+    "main.js": "/static/js/main.56474904.js",
     "static/media/Geoprocessing_30_4_2023.tbx": "/static/media/Geoprocessing_30_4_2023.483bb89522b7ce84c038.tbx",
     "static/media/GeometryProblems.pdf": "/static/media/GeometryProblems.d9ada2f9be300c53d793.pdf",
     "static/media/FixRasterEdges.JPG": "/static/media/FixRasterEdges.8bccde1e4b3a44ae3e9a.JPG",
+    "static/media/GeoAI.pdf": "/static/media/GeoAI.b3fe88f6bf3c5e3e8614.pdf",
+    "static/media/cadaster_Network.pdf": "/static/media/cadaster_Network.b4e9c01a8fc62c0267e9.pdf",
     "static/media/deals.pdf": "/static/media/deals.ce5252a49331111143e6.pdf",
     "static/media/MappingLayers.JPG": "/static/media/MappingLayers.dfc2833a457a08f033b3.JPG",
+    "static/media/image.jpeg": "/static/media/image.61b290ae6406f74f0d4f.jpeg",
     "static/media/MultipleClipper.JPG": "/static/media/MultipleClipper.3dd9245f08a798ab84bc.JPG",
     "static/media/polygon_to_line.JPG": "/static/media/polygon_to_line.28f20a89fe131705d404.JPG",
     "static/media/FeatureToPolygon.JPG": "/static/media/FeatureToPolygon.b115f04938e3a1a62056.JPG",
@@ -43,8 +46,6 @@
     "static/media/presentDEALS.JPG": "/static/media/presentDEALS.528e8f1879aedad7e65f.JPG",
     "static/media/ConvertDWGPic.JPG": "/static/media/ConvertDWGPic.76d2bc07037cc9f06a20.JPG",
     "static/media/toolbox.png": "/static/media/toolbox.1493cd1cfb3e13455c98.png",
-    "static/media/image_orig.jpeg": "/static/media/image_orig.f6b9eb36e249d9033493.jpeg",
-    "static/media/image.jpeg": "/static/media/image.8cd21881a569b69c02f3.jpeg",
     "static/media/FeatureToVertices.JPG": "/static/media/FeatureToVertices.337b783e7518a3d1c8b1.JPG",
     "static/media/RAP.atbx": "/static/media/RAP.3065c3a78f842c08472f.atbx",
     "static/media/find_prob.JPG": "/static/media/find_prob.e51ef4c0b7582fe9d5a6.JPG",
@@ -56,10 +57,10 @@
     "static/media/RAP1.JPG": "/static/media/RAP1.5f8d6dbade8f98c5649f.JPG",
     "index.html": "/index.html",
     "main.c7b0128c.css.map": "/static/css/main.c7b0128c.css.map",
-    "main.f081a8ba.js.map": "/static/js/main.f081a8ba.js.map"
+    "main.56474904.js.map": "/static/js/main.56474904.js.map"
   },
   "entrypoints": [
     "static/css/main.c7b0128c.css",
-    "static/js/main.f081a8ba.js"
+    "static/js/main.56474904.js"
   ]
 }
